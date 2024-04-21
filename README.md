@@ -12,7 +12,7 @@ They have been tested with version 6.2.2402.
 Further details on the model and discretisation can be found in  [reference](http://?).
 
 ```
-@Article{ms_DGelastEigen,
+@Article{meddahiFSI2024,
 title = {An $hp$ Error Analysis of HDG for Linear Fluid-Structure Interaction}, 
 author = {Meddahi, Salim},
 year = {2024},
