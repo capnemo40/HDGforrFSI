@@ -4,7 +4,7 @@ from netgen.geom2d import SplineGeometry
 from numpy import pi
 
 """
-This code corresponds to Example 1 of the article:
+This code corresponds to Example 1 of the preprint:
 
 An $hp$ Error Analysis of HDG for Linear Fluid-Structure Interaction
 by Salim Meddahi
