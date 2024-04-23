@@ -17,7 +17,7 @@ title = {An $hp$ Error Analysis of HDG for Linear Fluid-Structure Interaction},
 author = {Meddahi, Salim},
 year = {2024},
 eprint = {2404.13578},
-url = {[https://arxiv.org/abs/2404.13578]},
+url = {https://arxiv.org/abs/2404.13578},
 journal = {arXiv preprint}
 }
 ```
