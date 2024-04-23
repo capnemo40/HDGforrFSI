@@ -4,16 +4,7 @@ from netgen.geom2d import SplineGeometry
 from numpy import pi
 
 """
-This code corresponds to Example 1 of the preprint:
-
-@Article{meddahiFSI2024,
-title = {An $hp$ Error Analysis of HDG for Linear Fluid-Structure Interaction}, 
-author = {Meddahi, Salim},
-year = {2024},
-eprint = {2404.13578},
-url = {https://arxiv.org/abs/2404.13578},
-journal = {arXiv preprint}
-}
+This code corresponds to Example 1 of the [arXiv preprint](https://arxiv.org/abs/2404.13578)
 
 Tested with NGSolve version 6.2.2402
 
